@@ -14,6 +14,7 @@
   <li>Using the ‘style’ property</li>
   <li>Using the ‘classList’ property</li>
   <li>Using the ‘setAttribute’ method</li>
+</ol>
 
 <p>There are various other methods too like using ’setInterval’ and ‘setTimeout’ to make animations by manipulating the element’s CSS properties.</p>
 
